@@ -1,5 +1,5 @@
 # Evolutionary Ecosystem Simulator (evo_eco.py)
-An ever-evolving ecosystem of flora and fauna, which will evolve over time to become a stochastic simulation of Earth (and beyond!)
+An ever-evolving ecosystem of plants and animals, which will grow over time to become a stochastic simulation of Earth (and beyond!)
 
 > "Ever since I've known about computer language, given my background in Biology, I've wanted to create a realistic simulation of the Earth's evolving flora & fauna."
 
