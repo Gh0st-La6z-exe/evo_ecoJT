@@ -281,7 +281,7 @@ class EvolutionaryWorld:
         newborns = []
         
         # Organism life cycle
-        for org in self.population.copy():
+        for org in self.population:
             if org.is_alive:
                 org.move(self)
                 org.feed(self)
