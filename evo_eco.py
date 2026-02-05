@@ -89,7 +89,6 @@ class EvolvingOrganism:
     def move(self, world):
         """Movement through ocean and onto land as evolution progresses"""
         # Attempt to move to land if capable
-        current_tile = world.get_tile_type(self.x, self.y)
         
         # Random movement
         new_x = max(0, min(world.width - 1, self.x + random.choice([-1, 0, 1])))
